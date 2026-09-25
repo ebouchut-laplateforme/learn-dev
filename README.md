@@ -1,2 +1,3 @@
 # learn-dev
-My DWWM captstone project 
+
+This project has moved here: https://github.com/ebouchut/learn-dev
